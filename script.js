@@ -6,7 +6,6 @@ const typingText = document.getElementById("typing-text");
 
 const words = [
     "Creative Learner",
-    "Accounting Student",
     "Web Enthusiast",
     "Future Explorer"
 ];
